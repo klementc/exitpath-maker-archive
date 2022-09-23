@@ -1,6 +1,6 @@
 * Exitpath-Maker archive
 
 This repository is an archive of the level and leaderboard information from
-[exitpath-maker.net](https://exitpath-maker.net/).
+[[https://exitpath-maker.net/]].
 
 Each are available as csv files
