@@ -50,7 +50,6 @@ id_level,player,minutes,seconds,millisec,video,comment,date_added
 311,Xakaze,3,33,70,,,2022-03-19 16:15:18
 317,Xakaze,2,49,670,,,2022-03-19 16:15:35
 319,Xakaze,3,55,270,,,2022-03-19 16:15:49
-321,Xakaze,2,39,770,,,2022-03-19 16:16:03
 322,Xakaze,2,39,770,,,2022-03-19 16:16:17
 324,Xakaze,2,44,170,,,2022-03-19 16:16:33
 327,Xakaze,0,49,630,,,2022-03-19 16:16:48
@@ -63,7 +62,6 @@ id_level,player,minutes,seconds,millisec,video,comment,date_added
 418,Xakaze,1,58,970,,,2022-03-19 16:19:27
 419,Xakaze,5,59,70,,,2022-03-19 16:19:43
 424,Xakaze,1,23,230,,,2022-03-19 16:20:06
-432,Xakaze,1,40,100,,,2022-03-19 16:20:29
 434,Xakaze,0,53,730,,,2022-03-19 16:20:53
 3018,Xakaze,0,50,330,,,2022-03-19 16:22:23
 3019,Xakaze,1,59,230,,,2022-03-19 16:22:49
@@ -77,7 +75,6 @@ id_level,player,minutes,seconds,millisec,video,comment,date_added
 1420,Xakaze,0,58,170,,,2022-03-22 01:15:12
 1429,Xakaze,0,45,430,,,2022-03-22 01:16:39
 1419,Xakaze,0,41,230,,,2022-03-22 01:19:51
-1416,Xakaze,1,3,870,,,2022-03-22 01:24:31
 1426,Xakaze,0,26,530,,,2022-03-22 01:28:58
 1430,Xakaze,0,31,170,,,2022-03-22 01:32:11
 1423,Xakaze,0,36,270,,,2022-03-22 01:35:34
@@ -163,12 +160,10 @@ id_level,player,minutes,seconds,millisec,video,comment,date_added
 3259,AngelOfOreos,6,48,0,,,2022-05-19 01:25:05
 222,Xakaze,13,25,530,,,2022-05-19 16:19:21
 86,Xakaze,1,47,730,,,2022-05-19 16:24:35
-3191,Xakaze,3,45,730,,,2022-05-19 16:29:19
 3191,Xakaze,1,54,100,,,2022-05-19 16:31:45
 304,Xakaze,13,14,770,,,2022-05-19 19:29:27
 561,Xakaze,1,53,100,,,2022-05-19 19:56:02
 2315,Xakaze,0,40,130,,,2022-05-19 20:16:17
-2420,Xakaze,0,10,900,,,2022-05-19 20:22:52
 1508,Xakaze,0,18,200,https://youtu.be/82B70vfeUWI,,2022-05-20 18:22:24
 3240,clem,6,11,730,,,2022-05-20 19:18:09
 3155,clem,43,33,83,,,2022-05-20 20:33:38
@@ -181,7 +176,6 @@ id_level,player,minutes,seconds,millisec,video,comment,date_added
 3261,Xakaze,0,54,800,,,2022-05-22 15:48:12
 3261,AngelOfOreos,1,48,40,,,2022-05-23 03:03:29
 482,AngelOfOreos,1,4,83,,,2022-05-23 03:22:50
-2922,Xakaze,0,20,700,https://youtu.be/L3cMRn5XBRY,,2022-05-23 12:09:26
 2922,Froshi,0,20,70,,,2022-05-23 12:57:33
 3230,Froshi,1,47,230,,,2022-05-23 12:59:13
 3230,Xakaze,5,10,600,,,2022-05-23 13:16:14
@@ -256,7 +250,6 @@ id_level,player,minutes,seconds,millisec,video,comment,date_added
 340,Xakaze,0,37,360,,,2022-06-12 00:22:36
 2210,Xakaze,0,6,430,,,2022-06-13 00:57:33
 58,Xakaze,2,21,130,,,2022-06-13 01:54:38
-1879,Xakaze,0,44,0,,,2022-06-13 01:59:08
 904,Xakaze,1,38,270,,,2022-06-13 02:15:48
 2428,Xakaze,1,52,930,,,2022-06-13 02:27:15
 58,Xakaze,2,9,330,,,2022-06-13 15:02:36
@@ -272,7 +265,6 @@ id_level,player,minutes,seconds,millisec,video,comment,date_added
 1346,iamllama,2,49,870,,,2022-06-18 23:58:18
 393,Xakaze,0,6,900,,,2022-06-19 16:25:04
 80,Xakaze,2,39,170,,,2022-06-19 16:33:31
-2557,Xakaze,0,53,570,,,2022-06-19 20:28:45
 2557,Xakaze,0,45,770,,,2022-06-19 20:53:15
 738,Xakaze,0,17,400,,,2022-06-19 21:19:34
 1874,Xakaze,4,46,600,,,2022-06-19 23:54:11
@@ -304,14 +296,12 @@ id_level,player,minutes,seconds,millisec,video,comment,date_added
 948,Xakaze,0,26,500,,,2022-08-18 23:17:07
 947,Xakaze,1,23,70,https://youtu.be/P3VMBbgfZ-g,,2022-08-18 23:58:41
 948,Xakaze,0,23,230,https://youtu.be/s8ALY_JFsfg,,2022-08-19 07:37:27
-933,Xakaze,2,1,370,,,2022-08-19 21:20:23
 933,Xakaze,1,59,870,https://youtu.be/aB828ukLT_I,,2022-08-20 00:47:36
 1419,Molgmaran,0,32,0,https://www.youtube.com/watch?v=W5kbAziTwmA,,2022-08-20 12:06:20
 2522,Molgmaran,0,14,600,https://www.youtube.com/watch?v=hfxCsXEMUqo,,2022-08-20 20:44:52
 2068,Molgmaran,0,7,300,,,2022-08-21 01:03:27
 3295,Molgmaran,0,39,400,,,2022-08-21 01:17:58
 1622,Molgmaran,159,59,830,,,2022-08-21 11:45:43
-1622,Xakaze,8,38,930,,,2022-08-21 15:45:40
 1622,Xakaze,7,21,30,,,2022-08-21 15:53:59
 1622,Xakaze,6,39,760,,,2022-08-21 16:18:35
 1622,Xakaze,5,11,970,,,2022-08-21 16:27:45
@@ -522,3 +512,107 @@ id_level,player,minutes,seconds,millisec,video,comment,date_added
 3535,GoblinOfCash,19,5,530,,No comment,2022-09-23 04:18:39
 3536,GoblinOfCash,0,3,130,,No comment,2022-09-23 09:38:21
 3537,Xakaze,0,33,100,https://youtu.be/0wUy6--gs7w,A dream came true,2022-09-23 12:18:41
+765,Xakaze,0,18,400,https://youtu.be/e5kF--qWKDQ,No comment,2022-09-23 17:41:52
+2367,Xakaze,0,18,370,https://youtu.be/OgcddG7MEMQ,rip Milk,2022-09-23 19:33:41
+3511,clem,3,3,0,,No comment,2022-09-23 20:19:03
+3512,clem,2,21,630,,No comment,2022-09-23 20:21:56
+3513,clem,2,41,330,,No comment,2022-09-23 20:25:06
+3514,clem,2,56,230,,No comment,2022-09-23 20:36:10
+3435,clem,4,18,300,,No comment,2022-09-23 21:06:26
+3538,GoblinOfCash,0,36,0,,No comment,2022-09-23 22:44:43
+2925,Xakaze,0,19,630,https://youtu.be/RIovNZmG3ws,No comment,2022-09-24 00:20:33
+2329,Xakaze,0,28,470,https://youtu.be/yl5WPJQ2z4s,gg,2022-09-24 00:21:32
+3538,Xakaze,0,5,100,https://youtu.be/s-DVXdGkwEA,gotta go fast,2022-09-24 00:44:06
+1416,Xakaze,0,55,100,,No comment,2022-09-24 00:53:00
+2371,Xakaze,0,13,500,https://youtu.be/Mi3bhHRnDDc,pretty good,2022-09-24 01:39:30
+3536,Xakaze,0,3,30,https://youtu.be/XMnBm7RzRQ8,No comment,2022-09-24 16:34:19
+3514,Xakaze,0,12,100,https://youtu.be/6o1_eymWYqk,No comment,2022-09-24 21:09:37
+1791,Xakaze,0,24,170,https://youtu.be/mIo5JZT2W14,No comment,2022-09-24 21:20:41
+116,Xakaze,0,54,600,,No comment,2022-09-24 22:18:08
+3515,Xakaze,0,23,830,https://youtu.be/OpNKk5a0Bx0,No comment,2022-09-25 00:58:48
+3497,Xakaze,0,4,970,https://youtu.be/ClVRqWgq3P4,No comment,2022-09-25 03:20:56
+3539,GoblinOfCash,30,32,430,,another collection of pathetic fails by goc,2022-09-25 09:02:54
+3202,Xakaze,0,15,800,,No comment,2022-09-25 21:28:08
+588,Xakaze,0,5,70,,No comment,2022-09-25 21:31:03
+315,Xakaze,1,7,130,,No comment,2022-09-25 21:33:05
+372,Xakaze,2,57,770,,No comment,2022-09-25 21:42:15
+414,Xakaze,0,38,730,,No comment,2022-09-25 21:44:50
+3540,GoblinOfCash,24,34,930,,"game crash + QoL edit for part 3, just continued from there. (17.50.43+6.44.50=24.34.93)",2022-09-25 22:59:48
+607,Xakaze,2,30,880,,No comment,2022-09-26 01:23:33
+71,Xakaze,0,11,330,https://youtu.be/8oI0C5tbiIM,No comment,2022-09-26 02:10:31
+328,Xakaze,1,27,730,,No comment,2022-09-26 18:17:08
+436,Xakaze,1,37,700,,No comment,2022-09-26 18:22:38
+3541,GoblinOfCash,0,5,430,,gg,2022-09-26 22:42:38
+3542,GoblinOfCash,0,6,270,,gg,2022-09-27 04:42:27
+3543,GoblinOfCash,1,45,30,,more like goat of cash,2022-09-27 22:49:20
+2534,Xakaze,0,18,20,https://youtu.be/JTKBRZMxGko,No comment,2022-09-27 23:59:23
+2537,Xakaze,0,19,900,https://youtu.be/sYowKwzmqgs,Almost good,2022-09-28 18:53:04
+844,Xakaze,1,4,870,https://youtu.be/_6Jpx7200o8,Lost 1 second and that's pretty much it,2022-09-29 00:42:36
+3206,Xakaze,0,23,630,https://youtu.be/C82gdjyG2ms,No comment,2022-09-29 01:11:08
+3544,GoblinOfCash,9,29,900,,first playthru,2022-09-29 08:58:57
+1954,Xakaze,0,40,930,https://youtu.be/jfwQ9F7ZEK0,No comment,2022-09-29 12:40:11
+2420,Xakaze,0,9,800,https://youtu.be/pG3DZMESJDM,No comment,2022-09-29 18:14:41
+2317,Xakaze,1,12,70,,No comment,2022-09-29 19:19:59
+2326,Xakaze,0,47,370,,No comment,2022-09-29 20:34:26
+2405,Xakaze,0,15,730,,No comment,2022-09-29 20:42:45
+2427,Xakaze,0,25,870,https://youtu.be/57BiIl6xj9E,No comment,2022-09-29 21:22:22
+2386,Xakaze,0,14,400,https://youtu.be/UsdBYn2mZdA,No comment,2022-09-29 21:22:58
+207,Xakaze,0,52,500,,No comment,2022-09-29 21:50:30
+321,Xakaze,2,15,400,https://youtu.be/_xg31U1lIis,No comment,2022-09-29 23:22:04
+2424,Xakaze,0,47,170,,No comment,2022-09-30 07:35:43
+2182,Xakaze,0,5,600,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:28:42
+2183,Xakaze,0,8,930,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:29:02
+2202,Xakaze,0,6,370,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:29:26
+2203,Xakaze,0,7,200,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:29:43
+2204,Xakaze,0,7,70,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:30:01
+2206,Xakaze,0,9,830,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:30:23
+2207,Xakaze,0,5,600,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:30:37
+2185,Xakaze,0,8,570,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:30:55
+2186,Xakaze,0,6,730,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:31:18
+2187,Xakaze,0,5,600,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:31:34
+2189,Xakaze,0,5,430,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:31:56
+2190,Xakaze,0,6,330,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:32:13
+2191,Xakaze,0,4,870,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:32:34
+2193,Xakaze,0,6,630,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:32:57
+2194,Xakaze,0,6,200,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:33:15
+2196,Xakaze,0,5,270,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:33:35
+2197,Xakaze,0,7,470,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:33:52
+2198,Xakaze,0,5,800,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:34:06
+2199,Xakaze,0,5,600,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:34:21
+2201,Xakaze,0,7,0,https://youtu.be/hY5D2h0k6DE,No comment,2022-09-30 14:34:41
+3005,Xakaze,1,22,630,,No comment,2022-09-30 19:00:03
+3545,GoblinOfCash,0,6,230,,gg,2022-09-30 22:58:47
+3546,GoblinOfCash,0,22,430,,No comment,2022-10-01 09:50:26
+1747,Xakaze,0,15,430,https://youtu.be/1efbXyNEVGg,No comment,2022-10-01 20:17:29
+1748,Xakaze,0,23,900,https://youtu.be/1efbXyNEVGg,No comment,2022-10-01 20:17:48
+1749,Xakaze,0,6,530,https://youtu.be/1efbXyNEVGg,No comment,2022-10-01 20:18:05
+2368,Xakaze,0,48,870,,terrible,2022-10-01 21:01:08
+2370,Xakaze,0,23,670,,No comment,2022-10-01 21:35:40
+910,Xakaze,0,57,870,https://youtu.be/5O0tZviYS9Y,Flawless,2022-10-02 01:20:44
+125,Xakaze,0,58,830,,Pretty good (2 quick deaths),2022-10-02 03:44:54
+3005,Xakaze,1,6,970,,No comment,2022-10-02 16:16:10
+3001,Xakaze,1,8,900,,No comment,2022-10-02 21:43:34
+3034,Xakaze,0,54,700,,No comment,2022-10-02 21:57:44
+3034,Xakaze,0,51,370,,No comment,2022-10-02 22:01:00
+3547,GoblinOfCash,15,49,370,,first playthru,2022-10-04 00:12:35
+3547,Xakaze,0,29,670,,No comment,2022-10-04 19:10:41
+3549,GoblinOfCash,22,18,970,,No comment,2022-10-05 06:44:22
+3550,GoblinOfCash,0,6,500,,died twice,2022-10-05 21:28:27
+1615,Xakaze,0,51,400,,No comment,2022-10-06 18:32:18
+1614,Xakaze,1,22,100,,No comment,2022-10-06 18:48:03
+1879,Xakaze,0,23,770,,No comment,2022-10-06 21:41:23
+3551,Frank,0,13,7,,No comment,2022-10-07 03:37:13
+3552,GoblinOfCash,2,9,400,,No comment,2022-10-07 23:04:09
+365,GoblinOfCash,1,36,270,,No comment,2022-10-07 23:37:22
+3553,GoblinOfCash,8,3,970,,first playthru,2022-10-08 02:03:45
+3554,GoblinOfCash,2,23,70,,No comment,2022-10-08 04:06:12
+3555,GoblinOfCash,0,4,730,,gg,2022-10-08 07:19:59
+3556,GoblinOfCash,0,24,770,,No comment,2022-10-08 08:20:18
+3553,Xakaze,0,51,30,,No comment,2022-10-08 15:55:23
+3554,Xakaze,0,56,870,,No comment,2022-10-08 16:30:29
+3557,GoblinOfCash,15,27,300,,first playthru,2022-10-08 19:38:14
+3557,Xakaze,1,16,100,,No comment,2022-10-09 07:29:37
+3558,GoblinOfCash,0,15,230,,No comment,2022-10-10 07:36:07
+1651,Molgmaran,0,15,230,,No comment,2022-10-10 08:50:45
+1677,Molgmaran,0,18,670,https://youtu.be/DEReDh5iAZM,No comment,2022-10-10 10:00:05
+3559,GoblinOfCash,35,18,670,,No comment,2022-10-10 22:45:50
